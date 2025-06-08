@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:newsapp/screens/homescreen.dart';
 import 'package:newsapp/screens/landingpage.dart';
 
 class MyNewsApp extends StatelessWidget {
